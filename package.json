@@ -15,6 +15,7 @@
 		"url": "https://github.com/NextStepWebs/codemirror-spell-checker/issues"
 	},
 	"dependencies": {
+		"codemirror": "codemirror/CodeMirror",
 		"gulp": "*",
 		"gulp-minify-css": "*",
 		"gulp-uglify": "*",
